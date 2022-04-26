@@ -20,9 +20,9 @@ public class Tasks extends PApplet{
     {
 
         this (
-            tr.getString("Task"),
-            tr.getInt("Start"),
-            tr.getInt("End")
+        tr.getString("Task"),
+        tr.getInt("Start"),
+        tr.getInt("End")
         );
         
 
